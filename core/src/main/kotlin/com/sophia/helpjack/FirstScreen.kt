@@ -4,7 +4,6 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch
 import com.badlogic.gdx.utils.viewport.ExtendViewport
 import com.sophia.helpjack.agent.CommonAgents
 import com.sophia.helpjack.agent.GOAPAgent
-import com.sophia.helpjack.agent.bt.*
 import com.sophia.helpjack.agent.deco.ReactionTimeAgent
 import com.sophia.helpjack.goap.goal.AvoidBearGoal
 import com.sophia.helpjack.goap.goal.FireAliveGoal

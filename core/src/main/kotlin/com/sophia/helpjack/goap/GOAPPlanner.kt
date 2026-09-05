@@ -2,7 +2,6 @@ package com.sophia.helpjack.goap
 
 import com.sophia.helpjack.action.Action
 import com.sophia.helpjack.goap.goal.Goal
-import com.sophia.helpjack.goap.goal.GoalSelector
 import com.sophia.helpjack.model.World
 import com.sophia.helpjack.model.component.WoodCarrier
 

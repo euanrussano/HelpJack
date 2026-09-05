@@ -3,7 +3,6 @@ package com.sophia.helpjack.task
 import com.sophia.helpjack.agent.TaskListAgent
 import com.sophia.helpjack.model.World
 import com.sophia.helpjack.model.component.WoodCarrier
-import com.sophia.helpjack.model.component.hasWood
 
 class CollectWoodTask(val amountToCollect: Int): Task {
     override fun step(

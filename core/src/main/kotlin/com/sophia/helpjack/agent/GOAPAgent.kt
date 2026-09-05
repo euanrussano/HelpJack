@@ -2,12 +2,10 @@ package com.sophia.helpjack.agent
 
 import com.badlogic.gdx.Gdx
 import com.sophia.helpjack.action.Action
-import com.sophia.helpjack.goap.GOAPGraph
 import com.sophia.helpjack.goap.GOAPPlanner
 import com.sophia.helpjack.goap.goal.Goal
 import com.sophia.helpjack.goap.goal.GoalSelector
 import com.sophia.helpjack.model.World
-import com.sophia.helpjack.task.Task
 
 class GOAPAgent(
     override val actorId: Int,
